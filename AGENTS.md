@@ -28,7 +28,7 @@ Never hand-edit generated files.
 
 ```
 data/chronology.json     SOURCE OF TRUTH — facts, events, figures, organizations, references (hand-edited, English)
-data/i18n/{es,pt}.json   Translation caches (committed). In THIS repo they are HAND-AUTHORED exact-key dictionaries (see each file's _meta); keep them in step with English edits — node scripts/translate.js --stats reports gaps
+data/i18n/{es,pt}.json   Translation caches (committed). In THIS repo they are HAND-AUTHORED exact-key dictionaries (see each file's _meta); keep them in step with English edits — `node --test` (test/i18n-completeness.test.js) reports the real gaps; do NOT trust `scripts/translate.js --stats`, which cannot see subtree-allowlisted keys (publisherNote, the approvalLadder prose) and reports false coverage
 data/archives.json       MACHINE-GENERATED Wayback snapshot cache (written by scripts/archive-refs.js; committed)
 data/glossary-terms.json VENDORED, PINNED list of cronologia/glossary term ids (written by scripts/sync-glossary-terms.js; committed) — validates [[term-id]] cross-links offline
 data/places.json         VENDORED, PINNED copy of the cronologia/core gazetteer (written by scripts/sync-places.js; committed) — coordinates for the optional placesMap renderer; only needed when placesMap is declared
@@ -64,8 +64,12 @@ to the visitor's locale. See `adrs/0001-multilingual.md` and `cronologia/core#9`
 - **No backend, ever.** The site is static HTML on GitHub Pages; nothing
   translates at runtime. `es`/`pt` are **pre-authored, committed** caches in
   `data/i18n/` baked into the static pages at build time. Fill them by authoring
-  the translations and committing them; `node scripts/translate.js --stats`
-  reports which strings still need one. (An env-configured MT service is an
+  the translations and committing them; `node --test` — specifically
+  `test/i18n-completeness.test.js` — reports which strings still need one, and
+  it is the only trustworthy count: `node scripts/translate.js --stats` walks
+  `TRANSLATABLE_KEYS` alone, cannot see subtree-allowlisted keys, and therefore
+  reported this repo as fully covered while eight `publisherNote`s rendered in
+  English on both localized pages. (An env-configured MT service is an
   optional convenience — not required.) Keep them fresh when English changes.
 - Localization is **data-level** (a key-based walk in `build.js`), so every
   renderer — chronology, genealogy, charts, glossary links — is covered.
@@ -96,6 +100,21 @@ byte-identical to a build without the feature. Shapes are shown in
 
 - **`meta.vizChips[]`** — header pill links to the visual sections
   (`{ "href": "#lineage", "label": "🌳 Genealogy" }`).
+- **`approvalLadder`** — how far the reported apparition got through Church
+  judgment (`renderApprovalLadder`, adopted from core/template). Renders at the
+  **top** of the page, above `about`. One `stages[]` rung per authority, each
+  with a closed-enum `status` (`favourable`, `negative`, `inconclusive`,
+  `reported-undocumented`, `not-found`, `not-reached`, `pending`) and either
+  `sources[]` or a `noDocument` note saying what was searched — a rung with
+  neither fails the build. **The ladder never renders an overall verdict, and
+  adding one would be a regression: THIS repo is the reason.** La Salette's
+  apparition was declared worthy of belief by the Bishop of Grenoble in 1851
+  while Mélanie's expanded secrets were restricted by the Holy Office in 1915
+  and condemned in 1923 — different judgments about different objects, so this
+  dataset declares five rungs (two of them Roman, both labelled "not the
+  apparition") and no summary badge. `status` is deliberately excluded from the
+  `approvalLadder` entry in `SUBTREE_TRANSLATABLE`: it is an enum the renderer
+  looks up, and translating it breaks only the es/pt build.
 - **`lineage`** (alias `episcopalLineage`, the original fsspx key) — genealogy
   / lineage trees (`renderLineageSection`). One `trees[]` entry per branch;
   `separate: true` sets a branch apart visually for lines that must NOT be
