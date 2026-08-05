@@ -1,12 +1,12 @@
 {
   "meta": {
     "title": "Our Lady of La Salette — Cronologia",
-    "subtitle": "Chronology of the reported apparition at La Salette and the Church's judgments on it (1846–2016)",
-    "description": "An open, source-referenced chronology of the Marian apparition reported at La Salette-Fallavaux in 1846, the diocesan approval of 1851, and the later controversy over the \"Secrets of La Salette\".",
+    "subtitle": "Chronology of the reported apparition at La Salette in its setting — the famine year, the shrine, the congregation and the Church's judgments (1826–2016)",
+    "description": "An open, source-referenced chronology of the Marian apparition reported at La Salette-Fallavaux in 1846: the famine year and the diocese it happened in, the cures reported afterwards, the diocesan approval of 1851, the basilica and the Missionaries of La Salette, and the later controversy over the \"Secrets of La Salette\".",
     "language": "en",
     "siteUrl": "https://cronologia.github.io/lasalette/",
     "lastUpdated": "2026-08-05",
-    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparition is recorded here as a REPORTED event: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it never asserts the supernatural claim as fact. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark. Corrections against primary sources are welcome.",
+    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparition is recorded here as a REPORTED event: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it never asserts the supernatural claim as fact. Events before 1846 (the subsistence crisis, the diocese of Grenoble under de Bruillard) are CONTEXT for the setting, offered neither as explanation of the report nor as corroboration of it. Reported cures are handled the same way: the datable thing is the ACCOUNT — that a cure was reported, by whom, when it began to circulate, and when the commission or Rousselot's printed report took it up. No cure is recorded as having happened; La Salette has no medical bureau and no cure connected with it carries an act of recognition. Attendance figures are attributed to whoever publishes them and are left unreconciled where they disagree. The two Church judgments this dataset carries are about two different objects — the apparition (approved 1851) and the expanded \"secrets\" (restricted 1915 and 1923) — and are never merged. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark. Corrections against primary sources are welcome.",
     "vizChips": [
       {
         "href": "#chronology",
@@ -48,6 +48,23 @@
         "wiki-ourlady",
         "frwiki-ndls",
         "msla-history"
+      ]
+    },
+    {
+      "label": "Reported cures",
+      "value": "Cures were claimed at the mountain from the autumn of 1846, and the reports — with the press controversy around them — are what brought Bishop de Bruillard to open the canonical inquiry in July 1847; the commission examined them, and Canon Rousselot printed the case for them in his report to the bishop. That is as far as this dataset goes: it records who reported what and when, and never that a cure occurred. La Salette has no medical bureau and no equivalent of the Lourdes recognition acts — the French Wikipedia article states plainly that the Church made no scientific inquiry into these \"declarations of miracles\" — so no cure connected with the shrine carries a dated act of recognition, and none is recorded here as a fact.",
+      "sources": [
+        "frwiki-apparition",
+        "rousselot-1848",
+        "cathen-lasalette"
+      ]
+    },
+    {
+      "label": "Pilgrimage today",
+      "value": "Two figures circulate and they do not agree. Villes Sanctuaires en France, the association of French shrine towns of which La Salette is a member, gives nearly 200,000 pilgrims and visitors a year; the French Wikipedia article gives about 300,000. Neither states a method, and no audited count published by the sanctuary itself was reachable. Both numbers are attributed to whoever publishes them and the gap is left standing.",
+      "sources": [
+        "villes-sanctuaires-salette",
+        "frwiki-sanctuaire"
       ]
     }
   ],
@@ -114,6 +131,30 @@
   },
   "events": [
     {
+      "year": 1826,
+      "date": "1826-08-06",
+      "dateVerified": true,
+      "place": "Paris / Grenoble, France",
+      "title": "Philibert de Bruillard is consecrated Bishop of Grenoble",
+      "text": "Philibert de Bruillard, born at Dijon in 1765, ordained in 1789 and a clandestine priest through the Revolution, was consecrated Bishop of Grenoble by Bishop Frayssinous on 6 August 1826. Over his episcopate he established 107 new parishes and 34 vicariates and brought several congregations into the diocese, among them the Oblates of Mary Immaculate in 1834. He was therefore about eighty years old, and twenty years into rebuilding a post-Revolutionary diocese, when the two children of Corps made their report in September 1846. He resigned in 1852 and died on 15 December 1860; his heart is kept at the shrine. Recorded as the institutional setting of the judgment of 1851, not as a reason to accept or reject it.",
+      "sources": [
+        "omi-bruillard"
+      ]
+    },
+    {
+      "year": 1846,
+      "date": "1846",
+      "dateVerified": true,
+      "dateNote": "The crisis is dated to 1845–1847 as a whole; this entry is placed at 1846, the year of the failed harvest that preceded the reported apparition of 19 September.",
+      "place": "France and continental Europe",
+      "title": "The subsistence crisis of the Hungry Forties reaches its worst year",
+      "text": "Potato blight arrived on the continent in the summer of 1845 and spread within weeks; the cereal harvests failed as well, and food prices reached their peak in the first half of 1847. France recorded roughly ten thousand famine-related deaths — far fewer than Ireland, and still a subsistence crisis of a kind Western Europe would not see again. Historians read the hardship as the main trigger of the political upheaval of 1848. In the Isère, per the French Wikipedia account, cereal production fell sharply and the price of bread doubled. The public message the children reported speaks of spoilt wheat and rotting potatoes; readers have drawn conclusions from that in both directions, and this dataset draws none. The crisis is recorded here as the material condition of the year, not as an explanation of the report and not as corroboration of it.",
+      "sources": [
+        "rte-hungry-forties",
+        "frwiki-apparition"
+      ]
+    },
+    {
       "year": 1846,
       "date": "1846-09-19",
       "dateVerified": true,
@@ -127,16 +168,77 @@
       ]
     },
     {
-      "year": 1847,
-      "date": "1847",
+      "year": 1846,
+      "date": "1846-09-21",
       "dateVerified": false,
-      "dateNote": "The sanctuary presents the 1851 judgment as the outcome of five years of inquiry, and the Catholic Encyclopedia records that Bishop de Bruillard appointed a commission to examine the event judicially; the exact appointment dates of the commissions (commonly given as 1847 in the literature) were not verified against a reachable source.",
+      "dateNote": "The date is given by the French Wikipedia article, in the conditional mood it uses throughout for the reported events (\"se seraient rendus\", \"auraient constaté\"). No contemporary document establishing it was reachable from this session.",
+      "place": "La Salette-Fallavaux, France",
+      "title": "A spring is reported flowing at the apparition site",
+      "text": "Two days after the reported apparition, inhabitants of La Salette are said to have gone up to the pasture and to have found clear water flowing abundantly at the spot where the children placed the weeping woman. The spring became the centre of the pilgrimage and of the cures later claimed there. The datable thing recorded here is the REPORT — who said what, and when it began to circulate. This dataset does not record that a spring appeared, nor that it had not been there before.",
+      "sources": [
+        "frwiki-apparition"
+      ]
+    },
+    {
+      "year": 1846,
+      "date": "1846-11-17",
+      "dateVerified": false,
+      "dateNote": "The date is the one the French Wikipedia article gives for what it calls the first \"declared miracle\"; the underlying document was not reachable from this session.",
+      "place": "Isère, France",
+      "title": "The first cure is reported and circulated as a \"declared miracle\"",
+      "text": "A woman who for twenty-two years had walked only on crutches, and had been bedridden for seven, is reported to have walked unaided after prayers were made for her at the site. It is the first of the claims that later brought the bishop to open a formal inquiry. The event dated here is the REPORTING, not a cure: this dataset does not record that anyone was healed. The French Wikipedia article notes of these \"declarations of miracles\" that the Church subjected them to no scientific inquiry — La Salette has no institution equivalent to the Lourdes Medical Bureau, and no cure connected with the shrine carries a separate act of recognition.",
+      "sources": [
+        "frwiki-apparition"
+      ]
+    },
+    {
+      "year": 1847,
+      "date": "1847-07-19",
+      "dateVerified": false,
+      "dateNote": "The French Wikipedia article gives 19 July 1847 for the formal opening of the canonical inquiry and 13 December 1847 for the commission's vote. Both are recorded and both stay flagged: the source is tertiary, and the diocesan act itself was not reachable from this session. The sanctuary presents the 1851 judgment as the outcome of five years of inquiry; the Catholic Encyclopedia records only that Bishop de Bruillard appointed a commission, without dates.",
       "place": "Grenoble, France",
       "title": "Bishop de Bruillard opens the canonical investigation",
-      "text": "Bishop Philibert de Bruillard of Grenoble orders an investigation of the children's report and appoints a commission of clergy and theologians to examine it judicially; the commission concludes, per the Catholic Encyclopedia, that the reality of the apparition should be admitted. The exact dates of the commissions' appointment and sittings are not yet verified against a reachable source.",
+      "text": "Bishop Philibert de Bruillard of Grenoble orders an investigation of the children's report and appoints a commission of clergy and theologians to examine it judicially. What brought it to this point, on the French Wikipedia's account, was the reported cures and the press controversy around them, not the children's account alone: the commission interrogated the visionaries, the inhabitants and the local clergy, and also examined the cures being reported. The commission concludes, per the Catholic Encyclopedia, that the reality of the apparition should be admitted.",
       "sources": [
         "sanctuary-history",
-        "cathen-lasalette"
+        "cathen-lasalette",
+        "frwiki-apparition"
+      ]
+    },
+    {
+      "year": 1847,
+      "date": "1847-09-19",
+      "dateVerified": true,
+      "place": "La Salette-Fallavaux, France",
+      "title": "First anniversary: the congregation counts at least 30,000 on the mountain",
+      "text": "The Missionaries' own timeline records \"at least 30,000 pilgrims\" going up the mountain on the first anniversary, and notes that by 1849 some 15,000 people had been inscribed in the Confraternity of Our Lady of La Salette, Reconciler. Both figures are the congregation's, published by the congregation, and are attributed to it here rather than asserted; no independent count for those years was reachable.",
+      "sources": [
+        "msla-history"
+      ]
+    },
+    {
+      "year": 1847,
+      "date": "1847-12-13",
+      "dateVerified": false,
+      "dateNote": "Date from the French Wikipedia article; the commission's own minutes were not reachable from this session.",
+      "place": "Grenoble, France",
+      "title": "The episcopal commission votes in favour of the apparition",
+      "text": "The commission of examiners appointed by Bishop de Bruillard votes, on the French Wikipedia's account, in favour of recognising the apparition — with a single dissenting voice. The vote is advice to the bishop, not a judgment: the diocesan judgment itself would not come for another four years, on 19 September 1851.",
+      "sources": [
+        "frwiki-apparition"
+      ]
+    },
+    {
+      "year": 1848,
+      "date": "1848",
+      "dateVerified": false,
+      "dateNote": "The Google Books catalogue record gives 1848; the French Wikipedia article gives 1849. The disagreement is recorded rather than resolved — the title page could not be read directly, because the Gallica digitization returned 403 to this session's egress.",
+      "place": "Grenoble, France",
+      "title": "Canon Rousselot publishes his report to the bishop — the printed record of the reported cures",
+      "text": "Pierre-Joseph Rousselot (1785–1865), professor of dogmatic theology at Grenoble, member of the commission and the leading advocate of the apparition's reality, published his report to the bishop as La vérité sur l'événement de La Salette du 19 septembre 1846. It is the document in which the cures claimed at the mountain entered the printed record, gathered and argued by a named ecclesiastic who believed them. That is what is dated here: a report about reported cures, by a partisan of the case, addressed to the authority that would judge it. What the cures were, this dataset does not say — the book itself was not readable from this session, and no cure recorded in it carries a Church act of its own.",
+      "sources": [
+        "rousselot-1848",
+        "frwiki-apparition"
       ]
     },
     {
@@ -206,6 +308,17 @@
       ]
     },
     {
+      "year": 1858,
+      "date": "1858-02-02",
+      "dateVerified": true,
+      "place": "Grenoble, France",
+      "title": "The first Missionaries of La Salette take their vows",
+      "text": "Fathers Albertin, Archier, Berlioz, Basson, Buisson and Petit took their first vows in the bishop's chapel, six years after the pastoral that created the body of diocesan missionaries. Their perpetual vows came in 1879, the same year Rome approved the Institute. Dates from the congregation's own timeline.",
+      "sources": [
+        "msla-history"
+      ]
+    },
+    {
       "year": 1875,
       "date": "1875-03-01",
       "dateVerified": true,
@@ -221,12 +334,27 @@
       "year": 1879,
       "date": "1879",
       "dateVerified": true,
-      "dateNote": "The year of the consecration and of the minor-basilica title is given by the French Wikipedia article; the exact day was not verified against a reachable source.",
+      "dateNote": "Sources disagree on the day and even the month. The French Wikipedia articles give 20 August 1879 for the consecration and the crowning; the English article gives 21 August 1879 for the canonical coronation granted by Leo XIII; the congregation's own timeline places the crowning and consecration on 20–21 April 1879 and dates 18 August 1879 to the canonical approval of the Institute — a different act. The disagreement is recorded, not resolved: only the year is treated as verified.",
       "place": "La Salette-Fallavaux, France",
       "title": "The sanctuary church is consecrated and made a minor basilica",
-      "text": "The church on the apparition site is officially consecrated and raised to the rank of minor basilica.",
+      "text": "The church on the apparition site — begun in 1852 and finished after nearly three decades of building at 1,800 m — is officially consecrated and raised to the rank of minor basilica, and at the same ceremony the statue of Our Lady of La Salette receives a canonical coronation granted by Leo XIII. Cardinal Guibert, Archbishop of Paris, presided, according to the French Wikipedia account.",
       "sources": [
-        "frwiki-ndls"
+        "frwiki-ndls",
+        "frwiki-sanctuaire",
+        "wiki-ourlady",
+        "msla-history"
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1879-08-18",
+      "dateVerified": false,
+      "dateNote": "The congregation's own timeline gives 18 August 1879 for the canonical approval of the Institute; the Roman decree itself was not reachable from this session.",
+      "place": "Rome",
+      "title": "Rome canonically approves the Missionaries of Our Lady of La Salette",
+      "text": "The Institute founded by de Bruillard's pastoral of 1852 as a body of diocesan missionaries was canonically approved by Rome, per the congregation's own timeline, on 18 August 1879. This is a Roman act about a religious institute — its constitutions and its existence — and not a judgment on the apparition, which Rome has never ruled on. The two must not be read into one another.",
+      "sources": [
+        "msla-history"
       ]
     },
     {
@@ -255,6 +383,18 @@
       ]
     },
     {
+      "year": 1892,
+      "date": "1892",
+      "dateVerified": true,
+      "place": "Hartford, Connecticut / worldwide",
+      "title": "The Missionaries spread beyond France",
+      "text": "Fathers Pajot and Vignon reached Hartford, Connecticut in 1892, beginning the congregation's North American presence; earlier, from 1879, missionaries had served ten years in Norway. Madagascar followed in 1899, Poland in 1901–02 and Brazil in 1902, and by 1934 the congregation was organised in four provinces — France, Poland, Brazil and the United States. The English Wikipedia article states the Missionaries now serve in some twenty-five countries. Dates from the congregation's own timeline; the count of countries is attributed to Wikipedia and is not independently verified here.",
+      "sources": [
+        "msla-history",
+        "wiki-ourlady"
+      ]
+    },
+    {
       "year": 1904,
       "date": "1904-12-14",
       "dateVerified": false,
@@ -265,6 +405,18 @@
       "sources": [
         "wiki-melanie",
         "cathen-lasalette"
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "1905",
+      "dateVerified": false,
+      "dateNote": "The French Wikipedia article dates the expulsion to the separation of Church and State (law of 9 December 1905) without giving a day for the shrine itself, and gives 1943 for the congregation's permanent return.",
+      "place": "La Salette-Fallavaux, France",
+      "title": "The congregation is expelled from the shrine under the separation laws",
+      "text": "Under France's separation of Church and State the religious community was put out of the sanctuary and diocesan priests served it in their place. The Missionaries came back after the First World War and permanently in 1943. New roads in the 1960s made the mountain reachable for coach pilgrimages — and three coach crashes on the Laffrey descent, in 1973, 1975 and 2007, killed ninety-eight people between them.",
+      "sources": [
+        "frwiki-sanctuaire"
       ]
     },
     {
@@ -289,6 +441,17 @@
       "sources": [
         "aas-15-1923",
         "wiki-melanie"
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "dateVerified": true,
+      "place": "La Salette-Fallavaux, France",
+      "title": "The Association of the Pilgrims of Notre-Dame de La Salette is created",
+      "text": "The sanctuary's own history page records the creation in 1962 of the Association des Pèlerins de Notre-Dame de La Salette, to maintain and administer the buildings and the infrastructure that a mountain shrine at 1,800 m requires. It is the civil body behind the pilgrimage as it now runs.",
+      "sources": [
+        "sanctuary-history"
       ]
     },
     {
@@ -410,6 +573,14 @@
           "sanctuary-history",
           "frwiki-ndls"
         ]
+      },
+      {
+        "title": "A reported cure ≠ a recognized miracle",
+        "text": "The cures claimed at La Salette are part of this record in exactly one way: as REPORTS. The event dated is the reporting — who claimed a cure, when the claim began to circulate, and when the commission or Canon Rousselot's printed report took it up. No cure is recorded as having happened, and no beneficiary is named in a title. Nor is there a recognition act to record: unlike Lourdes, La Salette has no medical bureau and no bishop's declaration that a named cure is miraculous. The cures were part of the evidence the diocesan judgment of 1851 weighed; they are not themselves approved miracles, and the 1851 judgment is about the apparition, not about them.",
+        "sources": [
+          "frwiki-apparition",
+          "rousselot-1848"
+        ]
       }
     ]
   },
@@ -485,6 +656,54 @@
       "publisher": "Cor Jesu Sacratissimum",
       "publisherNote": "Devotional site sympathetic to Mélanie's cause — labeled as such; used for the July 1851 writing dates and carrier names it reprints from earlier accounts.",
       "type": "commentary"
+    },
+    {
+      "id": "rte-hungry-forties",
+      "title": "Between two worlds: the Hungry Forties in Europe",
+      "url": "https://www.rte.ie/history/the-great-irish-famine/2022/0127/1276178-the-hungry-forties-in-europe/",
+      "publisher": "Wouter Ronsijn and Eric Vanhaute, RTÉ",
+      "publisherNote": "Two economic historians of Ghent University writing for Ireland's public broadcaster, out of the Atlas of the Great Irish Famine — used for the continental subsistence crisis of 1845–1847, including France, which is the material setting of 1846 and nothing more.",
+      "type": "academic"
+    },
+    {
+      "id": "omi-bruillard",
+      "title": "Bruillard, Philibert de, Bishop of Grenoble",
+      "url": "https://www.omiworld.org/lemma/bruillard-philibert-de-bishop-of-grenoble/",
+      "publisher": "OMI World — historical dictionary of the Missionary Oblates of Mary Immaculate",
+      "publisherNote": "In-house reference dictionary of a congregation de Bruillard himself welcomed into Grenoble in 1834 — an institutional Catholic source, warm about him, used here for his dates and for the scale of his diocesan work.",
+      "type": "official"
+    },
+    {
+      "id": "rousselot-1848",
+      "title": "La vérité sur l'événement de La Salette du 19 septembre 1846, ou Rapport à Mgr l'évêque de Grenoble (Grenoble: chez l'auteur, au grand séminaire, 1848)",
+      "url": "https://books.google.com/books/about/La_v%C3%A9rit%C3%A9_sur_l_%C3%A9v%C3%A8nement_de_La_Sale.html?id=utrDKCFLydgC",
+      "publisher": "Pierre-Joseph Rousselot / Google Books catalogue record",
+      "publisherNote": "The report of the commission's leading advocate, printed. Catalogue record only: the digitized full text is on Gallica, which returned 403 to this session's egress, and Google Books shows a preview rather than the whole book. Cited for the fact and date of the publication, not for its contents beyond what other sources describe.",
+      "type": "primary"
+    },
+    {
+      "id": "frwiki-apparition",
+      "title": "Apparition mariale de La Salette",
+      "url": "https://fr.wikipedia.org/wiki/Apparition_mariale_de_La_Salette",
+      "publisher": "Wikipédia (fr)",
+      "publisherNote": "Tertiary source, used provisionally for the inquiry dates of 1847, the spring, and the reported cures of 1846–47 — including its own observation that the Church never subjected those cures to a scientific inquiry. The diocesan archives of Grenoble were not reachable from this session and should replace it.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "frwiki-sanctuaire",
+      "title": "Sanctuaire de Notre-Dame de La Salette",
+      "url": "https://fr.wikipedia.org/wiki/Sanctuaire_de_Notre-Dame_de_La_Salette",
+      "publisher": "Wikipédia (fr)",
+      "publisherNote": "Tertiary source, used provisionally for the shrine's twentieth-century history and for one of the two circulating annual attendance figures. The sanctuary publishes no audited count of its own that this session could find.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "villes-sanctuaires-salette",
+      "title": "Pèlerinage à La Salette",
+      "url": "https://www.villes-sanctuaires.com/villes-sanctuaires/salette/pelerinage",
+      "publisher": "Villes Sanctuaires en France",
+      "publisherNote": "Association of French shrine towns of which La Salette is a member — promotional by purpose, and cited only as one of the bodies that publishes an attendance figure, with the figure attributed to it.",
+      "type": "official"
     }
   ]
 }
