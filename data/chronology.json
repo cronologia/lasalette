@@ -1,0 +1,429 @@
+{
+  "meta": {
+    "title": "Our Lady of La Salette — Cronologia",
+    "subtitle": "Chronology of the reported apparition at La Salette and the Church's judgments on it (1846–2016)",
+    "description": "An open, source-referenced chronology of the Marian apparition reported at La Salette-Fallavaux in 1846, the diocesan approval of 1851, and the later controversy over the \"Secrets of La Salette\".",
+    "language": "en",
+    "siteUrl": "https://cronologia.github.io/lasalette/",
+    "lastUpdated": "2026-08-05",
+    "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparition is recorded here as a REPORTED event: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it never asserts the supernatural claim as fact. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark. Corrections against primary sources are welcome.",
+    "vizChips": [
+      {
+        "href": "#chronology",
+        "label": "📜 Chronology"
+      }
+    ]
+  },
+  "facts": [
+    {
+      "label": "What it is",
+      "value": "A single Marian apparition reported on 19 September 1846 on a mountain above La Salette-Fallavaux (French Alps, then diocese of Grenoble) by two shepherd children — recorded here as the children's account and as the Church judgments passed on it, not as an asserted fact.",
+      "sources": [
+        "sanctuary-history",
+        "cathen-lasalette"
+      ]
+    },
+    {
+      "label": "The seers",
+      "value": "Mélanie Calvat, aged 14 (the 1910 Catholic Encyclopedia says 15), and Maximin Giraud, aged 11 — two shepherd children of Corps who reported a weeping \"Beautiful Lady\" and a message delivered partly in French, partly in the local Occitan dialect.",
+      "sources": [
+        "sanctuary-history",
+        "cathen-lasalette",
+        "wiki-ourlady"
+      ]
+    },
+    {
+      "label": "Church approval status",
+      "value": "Two separate judgments about two separate objects. (1) The apparition: declared to bear \"all the characteristics of truth\" and worthy of belief by Bishop Philibert de Bruillard of Grenoble on 19 September 1851. (2) Mélanie's later, expanded \"Secret\": restricted by the Holy Office — a decree of 21 December 1915 ordered the faithful not to discuss the secret under its various forms, and a decree of 9 May 1923 placed the 1922 reprint of her 1879 booklet on the Index of Forbidden Books. The 1915 decree states expressly that devotion to Our Lady of La Salette itself is not forbidden.",
+      "sources": [
+        "sanctuary-history",
+        "aas-7-1915",
+        "aas-15-1923"
+      ]
+    },
+    {
+      "label": "Institutions born of it",
+      "value": "The Sanctuary (later Basilica) of Our Lady of La Salette on the apparition site, and the Missionaries of Our Lady of La Salette, both announced by Bishop de Bruillard's pastoral letter of 1 May 1852.",
+      "sources": [
+        "wiki-ourlady",
+        "frwiki-ndls",
+        "msla-history"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "year": 1846,
+      "date": "1846-09-19",
+      "dateVerified": true,
+      "place": "La Salette-Fallavaux, France",
+      "title": "Two children report an apparition of a weeping \"Beautiful Lady\"",
+      "text": "Mélanie Calvat (14) and Maximin Giraud (11), shepherd children from Corps, report that at about 3 p.m., on the mountain pasture above La Salette-Fallavaux, a weeping woman surrounded by light spoke to them — in French and then in the local Occitan dialect — delivering a public message centred on blasphemy, Sunday observance and conversion, and entrusting each child with a personal secret. All content of the event rests on the children's own accounts.",
+      "sources": [
+        "sanctuary-history",
+        "cathen-lasalette",
+        "wiki-ourlady"
+      ]
+    },
+    {
+      "year": 1847,
+      "date": "1847",
+      "dateVerified": false,
+      "dateNote": "The sanctuary presents the 1851 judgment as the outcome of five years of inquiry, and the Catholic Encyclopedia records that Bishop de Bruillard appointed a commission to examine the event judicially; the exact appointment dates of the commissions (commonly given as 1847 in the literature) were not verified against a reachable source.",
+      "place": "Grenoble, France",
+      "title": "Bishop de Bruillard opens the canonical investigation",
+      "text": "Bishop Philibert de Bruillard of Grenoble orders an investigation of the children's report and appoints a commission of clergy and theologians to examine it judicially; the commission concludes, per the Catholic Encyclopedia, that the reality of the apparition should be admitted. The exact dates of the commissions' appointment and sittings are not yet verified against a reachable source.",
+      "sources": [
+        "sanctuary-history",
+        "cathen-lasalette"
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1851-07",
+      "dateVerified": true,
+      "dateNote": "Maximin's text is dated Grenoble, 3 July 1851 and Mélanie's 6 July 1851 (Cor Jesu Sacratissimum, reprinting earlier accounts). Accounts differ on the carriers — canons Gerin and Rousselot in some accounts, vicars-general Melin and Rousselot in others — and the delivery to Pius IX is commonly dated 18 July 1851, a day not verified here against a reachable source.",
+      "place": "Grenoble, France",
+      "title": "The children's secrets are written down and sent to Pius IX",
+      "text": "At the bishop's instance the two seers commit their personal secrets to paper — Maximin's letter is dated Grenoble, 3 July 1851, Mélanie's 6 July 1851 — and the sealed texts are carried to Rome by two envoys of Bishop de Bruillard and delivered to Pope Pius IX in July 1851. Accounts differ on the envoys' identity (canons Gerin and Rousselot, or vicars-general Melin and Rousselot). Neither text was published by the Holy See; Maximin's secret was never published at all.",
+      "sources": [
+        "cjs-secrets",
+        "cathen-lasalette",
+        "wiki-ourlady"
+      ]
+    },
+    {
+      "year": 1851,
+      "date": "1851-09-19",
+      "dateVerified": true,
+      "dateNote": "The doctrinal pronouncement is dated 19 September 1851 (sanctuary, Missionaries, Wikipedia). The 1910 Catholic Encyclopedia instead gives 16 November 1851 — read here as the date the mandement was published and read in the diocese's churches; the disagreement is recorded, not resolved.",
+      "place": "Grenoble, France",
+      "title": "Bishop de Bruillard declares the apparition worthy of belief",
+      "text": "Five years to the day after the reported event, Bishop Philibert de Bruillard issues his doctrinal pronouncement: the apparition of the Blessed Virgin to the two shepherds on 19 September 1846 \"bears within itself all the characteristics of truth\", and the faithful are justified in believing it certain. This is the key diocesan approval document; the Catholic Encyclopedia dates the declaration 16 November 1851, a discrepancy recorded here rather than resolved.",
+      "sources": [
+        "sanctuary-history",
+        "wiki-ourlady",
+        "cathen-lasalette"
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852-05-01",
+      "dateVerified": true,
+      "dateNote": "1 May 1852 per the French and English Wikipedia articles; the congregation's own timeline speaks of a second doctrinal statement of the bishop dated 25 May — the day the cornerstone was laid. Both dates are carried.",
+      "place": "Grenoble, France",
+      "title": "Pastoral letter: a sanctuary decreed, the Missionaries of La Salette founded",
+      "text": "Bishop de Bruillard publishes a pastoral letter announcing the construction of a sanctuary on the mountain of La Salette and creating a body of diocesan missionaries he names the Missionaries of Our Lady of La Salette, charged with serving the pilgrims and spreading the message the children reported.",
+      "sources": [
+        "frwiki-ndls",
+        "wiki-ourlady",
+        "msla-history"
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852-05-25",
+      "dateVerified": true,
+      "place": "La Salette-Fallavaux, France",
+      "title": "Cornerstone of the sanctuary church laid on the mountain",
+      "text": "The first stone of the church is laid on the apparition site at about 1,800 m altitude, before a large assembly of the faithful; the building was completed in 1865.",
+      "sources": [
+        "cathen-lasalette",
+        "frwiki-ndls"
+      ]
+    },
+    {
+      "year": 1855,
+      "date": "1855",
+      "dateVerified": false,
+      "dateNote": "Only the year is given by the source cited (the sanctuary's own history page); the date of Bishop Ginoulhiac's confirming statement was not verified against a reachable primary document.",
+      "place": "Grenoble, France",
+      "title": "Bishop Ginoulhiac confirms his predecessor's judgment",
+      "text": "Jacques Ginoulhiac, de Bruillard's successor as Bishop of Grenoble, confirms the 1851 decision, stating — per the sanctuary's account — that \"the task of the shepherds is complete; that of the Church begins.\"",
+      "sources": [
+        "sanctuary-history"
+      ]
+    },
+    {
+      "year": 1875,
+      "date": "1875-03-01",
+      "dateVerified": true,
+      "place": "Corps, France",
+      "title": "Death of Maximin Giraud",
+      "text": "Maximin Giraud, who after unsettled years of study and odd employments had returned to his native Corps, dies there aged about 39. His personal secret was never published.",
+      "sources": [
+        "cathen-lasalette",
+        "wiki-ourlady"
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1879",
+      "dateVerified": true,
+      "dateNote": "The year of the consecration and of the minor-basilica title is given by the French Wikipedia article; the exact day was not verified against a reachable source.",
+      "place": "La Salette-Fallavaux, France",
+      "title": "The sanctuary church is consecrated and made a minor basilica",
+      "text": "The church on the apparition site is officially consecrated and raised to the rank of minor basilica.",
+      "sources": [
+        "frwiki-ndls"
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1879-11-15",
+      "dateVerified": true,
+      "place": "Lecce, Italy",
+      "title": "Mélanie publishes her expanded secret at Lecce",
+      "text": "Mélanie Calvat publishes at Lecce, as \"L'apparition de la très Sainte Vierge sur la montagne de La Salette\", a text of her secret far longer than the one sent to Pius IX in 1851, with the imprimatur of Salvatore Luigi Zola, Bishop of Lecce, who had received her in his diocese. The expanded text — including its much-quoted apocalyptic passages — is her own later redaction; its relation to what she wrote in 1851 is precisely what the subsequent controversy disputes.",
+      "sources": [
+        "wiki-melanie",
+        "wiki-ourlady",
+        "cathen-lasalette"
+      ]
+    },
+    {
+      "year": 1880,
+      "date": "1880-08",
+      "dateVerified": false,
+      "dateNote": "August 1880 per the Caterini letter as reported by the Wikipedia biography of Mélanie Calvat; the letter itself was not reachable and its exact date is not verified here.",
+      "place": "Rome, Italy",
+      "title": "The Holy Office asks that the Lecce booklet be withdrawn",
+      "text": "After the Bishop of Troyes denounces the Lecce publication, Cardinal Prospero Caterini of the Holy Office writes — per the accounts cited — that the Holy Office is displeased with the book and wishes copies withdrawn from circulation. This is a disciplinary reaction to the expanded secret, not a revocation of the 1851 approval of the apparition.",
+      "sources": [
+        "wiki-melanie"
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "1904-12-14",
+      "dateVerified": false,
+      "dateNote": "Sources disagree: 14 December 1904 (Wikipedia biography) versus 15 December 1904 (the 1910 Catholic Encyclopedia). She was found dead in the morning; the disagreement is recorded, not resolved.",
+      "place": "Altamura, Italy",
+      "title": "Death of Mélanie Calvat",
+      "text": "Mélanie Calvat dies at Altamura in southern Italy, where she had settled after decades of wandering between convents and countries. Sources disagree on the day — 14 December (Wikipedia) or 15 December (Catholic Encyclopedia).",
+      "sources": [
+        "wiki-melanie",
+        "cathen-lasalette"
+      ]
+    },
+    {
+      "year": 1915,
+      "date": "1915-12-21",
+      "dateVerified": true,
+      "place": "Rome, Italy",
+      "title": "Holy Office decree: the faithful ordered not to discuss the \"Secret de la Salette\"",
+      "text": "The Supreme Sacred Congregation of the [[cdf-ddf|Holy Office]] issues a decree — \"Decretum circa vulgo dictum «Secret de la Salette»\" — commanding all the faithful, of every country, not to treat or discuss the so-called Secret of La Salette, its diverse forms, or its application to present or future times, under any pretext or form, in books, pamphlets or articles signed or anonymous, under pain of canonical sanctions. The decree states expressly that it does not forbid devotion to the Blessed Virgin invoked as Reconciler of La Salette. It disciplines discussion of the expanded secret; it does not touch the 1851 judgment on the apparition.",
+      "sources": [
+        "aas-7-1915"
+      ]
+    },
+    {
+      "year": 1923,
+      "date": "1923-05-09",
+      "dateVerified": true,
+      "dateNote": "The Holy Office's general session (Feria IV) condemned the booklet on 9 May 1923 and Pius XI approved the resolution the same day; the decree as printed in AAS 15 (1923), pp. 287–288, is dated from the Holy Office on 10 May 1923.",
+      "place": "Rome, Italy",
+      "title": "Mélanie's booklet is placed on the Index of Forbidden Books",
+      "text": "The [[cdf-ddf|Holy Office]] proscribes and condemns the booklet \"L'apparition de la très Sainte Vierge sur la sainte montagne de la Salette\" — the 1922 Société Saint-Augustin reprint of the text published by Mélanie — ordering that copies be withdrawn from the hands of the faithful; Pope Pius XI approves the resolution. The condemnation names Mélanie's booklet, a separate object from the apparition approved in 1851.",
+      "sources": [
+        "aas-15-1923",
+        "wiki-melanie"
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "2016-03-18",
+      "dateVerified": true,
+      "place": "Rome, Italy",
+      "title": "Our Lady of La Salette entered in the liturgical calendar for France",
+      "text": "The Congregation for Divine Worship inscribes the celebration of Our Lady of La Salette in the proper liturgical calendar for France as an optional memorial on 19 September — a further act of the ordinary ecclesiastical recognition that has always concerned the apparition and the devotion, not the expanded secrets.",
+      "sources": [
+        "frwiki-ndls"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "name": "Mélanie Calvat",
+      "role": "The elder of the two seers; a shepherd girl of Corps, aged 14 at the reported apparition (15 per the Catholic Encyclopedia). Later a religious in and out of several convents in France, England and Italy; author of the expanding versions of her secret culminating in the 1879 Lecce booklet.",
+      "dates": "1831–1904",
+      "country": "France",
+      "sources": [
+        "wiki-melanie",
+        "cathen-lasalette"
+      ]
+    },
+    {
+      "name": "Maximin Giraud",
+      "role": "The younger seer; a shepherd boy of Corps, aged 11 at the reported apparition. His later life was unsettled — studies and employments taken up and abandoned — and his personal secret was never published. Died at Corps.",
+      "dates": "c. 1835–1875",
+      "country": "France",
+      "sources": [
+        "cathen-lasalette",
+        "wiki-ourlady"
+      ]
+    },
+    {
+      "name": "Philibert de Bruillard",
+      "role": "Bishop of Grenoble at the time of the reported apparition. Ordered the canonical investigation, issued the doctrinal pronouncement of 19 September 1851 declaring the apparition worthy of belief, and by the pastoral of 1 May 1852 decreed the sanctuary and founded the Missionaries of Our Lady of La Salette.",
+      "country": "France",
+      "sources": [
+        "sanctuary-history",
+        "wiki-ourlady",
+        "msla-history"
+      ]
+    },
+    {
+      "name": "Jacques Ginoulhiac",
+      "role": "De Bruillard's successor as Bishop of Grenoble; confirmed the 1851 judgment in 1855, per the sanctuary's account.",
+      "country": "France",
+      "sources": [
+        "sanctuary-history"
+      ]
+    },
+    {
+      "name": "Salvatore Luigi Zola",
+      "role": "Bishop of Lecce; protector of Mélanie in her Italian years and grantor of the imprimatur for her 1879 booklet — the imprimatur of a local ordinary, not an approval by the Holy See.",
+      "country": "Italy",
+      "sources": [
+        "wiki-melanie"
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": "Missionaries of Our Lady of La Salette",
+      "founded": "1852",
+      "place": "Grenoble, France",
+      "relation": "Congregation of priests founded by Bishop de Bruillard's pastoral of 1 May 1852 to serve the sanctuary's pilgrims and spread the message the children reported; per the congregation's own timeline it was canonically approved by Rome on 18 August 1879. It is the shrine-serving institution, not a party to the secrets controversy.",
+      "sources": [
+        "msla-history",
+        "wiki-ourlady"
+      ]
+    },
+    {
+      "name": "Sanctuary of Our Lady of La Salette",
+      "founded": "1852",
+      "place": "La Salette-Fallavaux, France",
+      "relation": "The shrine decreed by de Bruillard's 1852 pastoral on the apparition site; church begun 1852, completed 1865, consecrated and made a minor basilica in 1879. Its official history page is a preferred primary source for this dataset's institutional dates.",
+      "sources": [
+        "sanctuary-history",
+        "frwiki-ndls",
+        "cathen-lasalette"
+      ]
+    }
+  ],
+  "disambiguation": {
+    "note": "La Salette is contested terrain in a specific way: the same name covers an apparition approved by a bishop in 1851 and a body of later 'secret' texts restricted by the Holy Office in 1915 and 1923. Collapsing the two is the single most common error in the literature, sympathetic and critical alike.",
+    "items": [
+      {
+        "title": "The apparition ≠ the \"Secret of La Salette\"",
+        "text": "The 1851 approval and the later disciplinary acts are separate judgments about separate objects. Bishop de Bruillard's 19 September 1851 pronouncement declared the apparition itself worthy of belief. The Holy Office's 1915 decree and the 1923 Index placement concern Mélanie's later, expanded secret texts — the 1915 decree even states expressly that devotion to Our Lady of La Salette is not forbidden. Neither act revokes the other.",
+        "sources": [
+          "aas-7-1915",
+          "aas-15-1923",
+          "sanctuary-history"
+        ]
+      },
+      {
+        "title": "Reported, not asserted",
+        "text": "Everything said about the 19 September 1846 event rests on the accounts of two children, examined and judged credible by a diocesan investigation. This dataset records who reported what and when, and what the Church ruled and when; it does not assert the supernatural claim as fact, and it does not deny it either.",
+        "sources": [
+          "cathen-lasalette",
+          "sanctuary-history"
+        ]
+      },
+      {
+        "title": "The 1851 secret ≠ the 1879 text",
+        "text": "What Mélanie wrote for Pius IX in July 1851 and what she published at Lecce in 1879 are not established to be the same text: the 1879 booklet is far longer, and her versions grew over the intervening decades. Which text is 'the' secret is exactly what the controversy disputes; this dataset carries the dispute, attributed and dated, without resolving it.",
+        "sources": [
+          "wiki-melanie",
+          "cjs-secrets",
+          "wiki-ourlady"
+        ]
+      },
+      {
+        "title": "La Salette-Fallavaux ≠ the sanctuary",
+        "text": "La Salette-Fallavaux is the Alpine commune; the reported apparition site and the basilica stand on the mountain above it, at about 1,800 m. \"La Salette\" also names the two religious congregations born of the shrine (the Missionaries and the Sisters), which are institutions, not the event.",
+        "sources": [
+          "sanctuary-history",
+          "frwiki-ndls"
+        ]
+      }
+    ]
+  },
+  "references": [
+    {
+      "id": "sanctuary-history",
+      "title": "History — Sanctuaire Notre-Dame de La Salette",
+      "url": "https://lasalette.cef.fr/en/history/",
+      "publisher": "Sanctuaire Notre-Dame de La Salette",
+      "publisherNote": "The sanctuary's official site — the shrine's own account of the apparition and its recognition; institutional, sympathetic perspective.",
+      "type": "official"
+    },
+    {
+      "id": "msla-history",
+      "title": "History of Congregation",
+      "url": "https://www.lasalette.info/mission/history-of-congregation",
+      "publisher": "Missionaries of Our Lady of La Salette",
+      "publisherNote": "The congregation's own dated timeline — institutional, sympathetic perspective.",
+      "type": "official"
+    },
+    {
+      "id": "aas-7-1915",
+      "title": "Decretum circa vulgo dictum «Secret de la Salette», 21 December 1915 — AAS 7 (1915), pp. 594–595",
+      "url": "https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf",
+      "publisher": "Acta Apostolicae Sedis, vatican.va",
+      "publisherNote": "Primary source: the Holy See's official gazette, scanned OCR PDF. The decree text was verified directly against this file for this dataset.",
+      "type": "primary"
+    },
+    {
+      "id": "aas-15-1923",
+      "title": "Holy Office decree condemning «L'apparition de la très Sainte Vierge sur la sainte montagne de la Salette», 9 May 1923 — AAS 15 (1923), pp. 287–288",
+      "url": "https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf",
+      "publisher": "Acta Apostolicae Sedis, vatican.va",
+      "publisherNote": "Primary source: the Holy See's official gazette, scanned OCR PDF. The decree text was verified directly against this file for this dataset.",
+      "type": "primary"
+    },
+    {
+      "id": "cathen-lasalette",
+      "title": "La Salette",
+      "url": "https://www.newadvent.org/cathen/09008b.htm",
+      "publisher": "The Catholic Encyclopedia via New Advent (1910)",
+      "publisherNote": "A 1910 Catholic reference work: careful on dates but a century old, and it dates the 1851 declaration 16 November where later sources give 19 September.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "wiki-ourlady",
+      "title": "Our Lady of La Salette",
+      "url": "https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette",
+      "publisher": "Wikipedia (en)",
+      "publisherNote": "Crowd-edited tertiary source; used for dates and for the outline of the secrets controversy, cross-checked against primary and official sources where possible.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "wiki-melanie",
+      "title": "Mélanie Calvat",
+      "url": "https://en.wikipedia.org/wiki/M%C3%A9lanie_Calvat",
+      "publisher": "Wikipedia (en)",
+      "publisherNote": "Crowd-edited tertiary source; used for the 1879 Lecce publication date, the 1880 Caterini letter and the seer's biography.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "frwiki-ndls",
+      "title": "Notre-Dame de La Salette",
+      "url": "https://fr.wikipedia.org/wiki/Notre-Dame_de_La_Salette",
+      "publisher": "Wikipédia (fr)",
+      "publisherNote": "Crowd-edited tertiary source, French; used for the 1852 pastoral, the basilica dates and the 2016 liturgical-calendar entry.",
+      "type": "encyclopedia"
+    },
+    {
+      "id": "cjs-secrets",
+      "title": "Mélanie Calvat and Our Lady of La Salette — Part III: The Secrets of La Salette",
+      "url": "https://corjesusacratissimum.org/2012/07/melanie-calvat-and-our-lady-of-la-salette-part-iii-the-secrets-of-la-salette/",
+      "publisher": "Cor Jesu Sacratissimum",
+      "publisherNote": "Devotional site sympathetic to Mélanie's cause — labeled as such; used for the July 1851 writing dates and carrier names it reprints from earlier accounts.",
+      "type": "commentary"
+    }
+  ]
+}
