@@ -607,7 +607,7 @@
       "url": "https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf",
       "publisher": "Acta Apostolicae Sedis, vatican.va",
       "publisherNote": "Primary source: the Holy See's official gazette, scanned OCR PDF. The decree text was verified directly against this file for this dataset.",
-      "type": "primary"
+      "type": "official"
     },
     {
       "id": "aas-15-1923",
@@ -615,7 +615,7 @@
       "url": "https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf",
       "publisher": "Acta Apostolicae Sedis, vatican.va",
       "publisherNote": "Primary source: the Holy See's official gazette, scanned OCR PDF. The decree text was verified directly against this file for this dataset.",
-      "type": "primary"
+      "type": "official"
     },
     {
       "id": "cathen-lasalette",
@@ -655,7 +655,7 @@
       "url": "https://corjesusacratissimum.org/2012/07/melanie-calvat-and-our-lady-of-la-salette-part-iii-the-secrets-of-la-salette/",
       "publisher": "Cor Jesu Sacratissimum",
       "publisherNote": "Devotional site sympathetic to Mélanie's cause — labeled as such; used for the July 1851 writing dates and carrier names it reprints from earlier accounts.",
-      "type": "commentary"
+      "type": "analysis"
     },
     {
       "id": "rte-hungry-forties",
@@ -678,8 +678,8 @@
       "title": "La vérité sur l'événement de La Salette du 19 septembre 1846, ou Rapport à Mgr l'évêque de Grenoble (Grenoble: chez l'auteur, au grand séminaire, 1848)",
       "url": "https://books.google.com/books/about/La_v%C3%A9rit%C3%A9_sur_l_%C3%A9v%C3%A8nement_de_La_Sale.html?id=utrDKCFLydgC",
       "publisher": "Pierre-Joseph Rousselot / Google Books catalogue record",
-      "publisherNote": "The report of the commission's leading advocate, printed. Catalogue record only: the digitized full text is on Gallica, which returned 403 to this session's egress, and Google Books shows a preview rather than the whole book. Cited for the fact and date of the publication, not for its contents beyond what other sources describe.",
-      "type": "primary"
+      "publisherNote": "Primary document — the report of the commission's leading advocate, printed. Catalogue record only: the digitized full text is on Gallica, which returned 403 to this session's egress, and Google Books shows a preview rather than the whole book. Cited for the fact and date of the publication, not for its contents beyond what other sources describe.",
+      "type": "book"
     },
     {
       "id": "frwiki-apparition",
