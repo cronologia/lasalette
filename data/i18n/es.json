@@ -1,7 +1,7 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "67/67",
+    "coverage": "75 strings",
     "generatedBy": "hand-authored by Claude (LLM) during project bootstrap, 2026-08-05 — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; keep this cache in step with English edits (node scripts/translate.js --stats reports gaps).",
     "humanReviewed": false
@@ -73,6 +73,14 @@
     "What Mélanie wrote for Pius IX in July 1851 and what she published at Lecce in 1879 are not established to be the same text: the 1879 booklet is far longer, and her versions grew over the intervening decades. Which text is 'the' secret is exactly what the controversy disputes; this dataset carries the dispute, attributed and dated, without resolving it.": "No está establecido que lo que Mélanie escribió para Pío IX en julio de 1851 y lo que publicó en Lecce en 1879 sean el mismo texto: el opúsculo de 1879 es mucho más largo, y sus versiones crecieron durante las décadas intermedias. Cuál de los textos es «el» secreto es exactamente lo que la controversia disputa; este conjunto de datos recoge la disputa, atribuida y fechada, sin resolverla.",
     "What it is": "Qué es",
     "Work-in-progress dataset compiled from public sources (see references). The apparition is recorded here as a REPORTED event: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it never asserts the supernatural claim as fact. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark. Corrections against primary sources are welcome.": "Conjunto de datos en curso, compilado a partir de fuentes públicas (véanse las referencias). La aparición se registra aquí como un hecho RELATADO: el conjunto de datos indica quién relató qué y cuándo, y qué dictaminó la Iglesia y cuándo, citando el documento del dictamen — nunca afirma la pretensión sobrenatural como hecho. Las afirmaciones controvertidas se atribuyen a sus autores; las fechas aún no verificadas con una fuente primaria se marcan con un signo ?. Se agradecen las correcciones con fuentes primarias.",
-    "📜 Chronology": "📜 Cronología"
+    "📜 Chronology": "📜 Cronología",
+    "The sanctuary's official site — the shrine's own account of the apparition and its recognition; institutional, sympathetic perspective.": "El sitio oficial del santuario — el relato del propio santuario sobre la aparición y su reconocimiento; perspectiva institucional y afín.",
+    "The congregation's own dated timeline — institutional, sympathetic perspective.": "La cronología fechada de la propia congregación — perspectiva institucional y afín.",
+    "Primary source: the Holy See's official gazette, scanned OCR PDF. The decree text was verified directly against this file for this dataset.": "Fuente primaria: el boletín oficial de la Santa Sede, PDF escaneado con OCR. El texto del decreto se verificó directamente contra este archivo para este conjunto de datos.",
+    "A 1910 Catholic reference work: careful on dates but a century old, and it dates the 1851 declaration 16 November where later sources give 19 September.": "Una obra católica de referencia de 1910: cuidadosa con las fechas, pero de hace un siglo, y data la declaración de 1851 el 16 de noviembre, donde fuentes posteriores dan el 19 de septiembre.",
+    "Crowd-edited tertiary source; used for dates and for the outline of the secrets controversy, cross-checked against primary and official sources where possible.": "Fuente terciaria de edición colaborativa; se usa para fechas y para el esquema de la controversia de los secretos, cotejada con fuentes primarias y oficiales siempre que ha sido posible.",
+    "Crowd-edited tertiary source; used for the 1879 Lecce publication date, the 1880 Caterini letter and the seer's biography.": "Fuente terciaria de edición colaborativa; se usa para la fecha de publicación de Lecce en 1879, la carta de Caterini de 1880 y la biografía de la vidente.",
+    "Crowd-edited tertiary source, French; used for the 1852 pastoral, the basilica dates and the 2016 liturgical-calendar entry.": "Fuente terciaria de edición colaborativa, en francés; se usa para la pastoral de 1852, las fechas de la basílica y la entrada del calendario litúrgico de 2016.",
+    "Devotional site sympathetic to Mélanie's cause — labeled as such; used for the July 1851 writing dates and carrier names it reprints from earlier accounts.": "Sitio devocional afín a la causa de Mélanie — señalado como tal; se usa para las fechas de redacción de julio de 1851 y los nombres de los portadores que reproduce de relatos anteriores."
   }
 }
