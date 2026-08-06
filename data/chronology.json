@@ -5,7 +5,7 @@
     "description": "An open, source-referenced chronology of the Marian apparition reported at La Salette-Fallavaux in 1846: the famine year and the diocese it happened in, the cures reported afterwards, the diocesan approval of 1851, the basilica and the Missionaries of La Salette, and the later controversy over the \"Secrets of La Salette\".",
     "language": "en",
     "siteUrl": "https://cronologia.github.io/lasalette/",
-    "lastUpdated": "2026-08-05",
+    "lastUpdated": "2026-08-06",
     "dataQualityNote": "Work-in-progress dataset compiled from public sources (see references). The apparition is recorded here as a REPORTED event: the dataset states who reported what and when, and what the Church ruled and when, citing the ruling document — it never asserts the supernatural claim as fact. Events before 1846 (the subsistence crisis, the diocese of Grenoble under de Bruillard) are CONTEXT for the setting, offered neither as explanation of the report nor as corroboration of it. Reported cures are handled the same way: the datable thing is the ACCOUNT — that a cure was reported, by whom, when it began to circulate, and when the commission or Rousselot's printed report took it up. No cure is recorded as having happened; La Salette has no medical bureau and no cure connected with it carries an act of recognition. Attendance figures are attributed to whoever publishes them and are left unreconciled where they disagree. The two Church judgments this dataset carries are about two different objects — the apparition (approved 1851) and the expanded \"secrets\" (restricted 1915 and 1923) — and are never merged. Contested claims are attributed to their authors; dates not yet verified against a primary source are flagged with a ? mark. Corrections against primary sources are welcome.",
     "vizChips": [
       {
@@ -69,7 +69,7 @@
     }
   ],
   "approvalLadder": {
-    "note": "Two things were judged here, by different authorities, about different objects, and this page never adds them up. The apparition reported on 19 September 1846 was investigated by the Bishop of Grenoble and declared worthy of belief on 19 September 1851; that judgment has never been revoked. The Holy Office acts of 1915 and 1923 concern a different object — the expanded \"Secret\" texts Mélanie Calvat wrote and published decades afterwards — and the 1915 decree states in so many words that devotion to Our Lady of La Salette is not thereby forbidden. No Roman doctrinal ruling on the 1846 apparition itself has been located, in either direction. Reading the 1915 and 1923 decrees as Rome's verdict on the apparition is the most common error in the literature, sympathetic and critical alike.",
+    "note": "Two things were judged here, by different authorities, about different objects, and this page never adds them up. The apparition reported on 19 September 1846 was investigated by the Bishop of Grenoble and declared worthy of belief on 19 September 1851; that judgment has never been revoked. Rome then acted fast and generously on the cult — nine acts between August and December 1852, from a privileged altar to an archconfraternity to the anniversary in the diocesan calendar — without ever ruling on whether the apparition happened, a gap the bishop who catalogued those favours in 1854 states in as many words. The Holy Office acts of 1915 and 1923 concern a third object again — the expanded \"Secret\" texts Mélanie Calvat wrote and published decades afterwards — and the 1915 decree states in so many words that devotion to Our Lady of La Salette is not thereby forbidden. No Roman doctrinal ruling on the 1846 apparition itself has been located, in either direction. Reading the 1852 favours as Rome's approval, or the 1915 and 1923 decrees as Rome's verdict against, are the two most common errors in the literature — sympathetic and critical alike, and they are the same error.",
     "stages": [
       {
         "label": "Parish level — local inquiry",
@@ -100,10 +100,21 @@
         "when": "1851 onwards",
         "who": "The Holy See",
         "status": "not-found",
-        "noDocument": "No Roman doctrinal ruling on the apparition has been located, in either direction. The children's sealed secrets were carried to Pius IX in July 1851 and no published papal judgment on them or on the apparition followed; the 1910 Catholic Encyclopedia sums the position up as \"As Rome uttered no decision the strife was prolonged between the disputants\". The two Roman acts this chronology does cite, of 1915 and 1923, name Mélanie's secret texts and not the apparition; the 2016 act of the Congregation for Divine Worship inscribing the memorial of Our Lady of La Salette in the proper calendar for France concerns the liturgy and the devotion, not the truth of the 1846 event. Approval of this apparition rests where it was given in 1851: with the diocese.",
+        "noDocument": "No Roman doctrinal ruling on the apparition has been located, in either direction. The children's sealed secrets were carried to Pius IX in July 1851 and no published papal judgment on them or on the apparition followed; the 1910 Catholic Encyclopedia sums the position up as \"As Rome uttered no decision the strife was prolonged between the disputants\". The zero is not for want of Roman interest: in the autumn of 1852 Pius IX issued at least nine acts favouring the sanctuary, the confraternity, the missioners and the anniversary — they are the next rung — and the bishop who catalogued them in 1854, a sympathetic witness with every motive to claim more, wrote that \"the Holy See has not formally pronounced upon the fact of La Salette. Her word, that final and decisive word, has not been uttered.\" The two Roman acts this chronology cites against the case, of 1915 and 1923, name Mélanie's secret texts and not the apparition; the 2016 act of the Congregation for Divine Worship inscribing the memorial of Our Lady of La Salette in the proper calendar for France concerns the liturgy and the devotion, not the truth of the 1846 event. Approval of this apparition rests where it was given in 1851: with the diocese.",
         "sources": [
           "cathen-lasalette",
-          "frwiki-ndls"
+          "frwiki-ndls",
+          "ullathorne-1854"
+        ]
+      },
+      {
+        "label": "Rome — the cult, the pilgrimage and the missioners (not the apparition)",
+        "when": "24 August – 2 December 1852",
+        "who": "Pius IX, by rescript, brief and indult",
+        "status": "adjacent",
+        "outcome": "Rome moved quickly, and on everything except the question. Within fifteen months of the diocesan judgment of September 1851, Pius IX made the sanctuary's high altar privileged in perpetuity (24 August 1852), let any visiting priest say a votive Mass of the Blessed Virgin there (26 August), granted five indulgences to the Confraternity of La Salette (26 August), a plenary indulgence to everyone who visits the church (3 September) and to those who follow the missioners' missions (3 September), gave the missioners faculties for blessing objects and the Scapular (7 September), erected the confraternity into an Archconfraternity of Our Lady of Reconciliation of La Salette (7 September), and permitted the whole diocese of Grenoble to solemnize 19 September each year (2 December). Every one of these acts presupposes the pilgrimage and none of them adjudicates it: they regulate worship, grant indulgences and empower a clergy. The rung is marked as an act on a related matter for that reason, and the source that lists the acts — Bishop Ullathorne, in 1854, writing to persuade — is also the source for the denial: \"The Holy See has not formally pronounced upon the fact of La Salette.\" A reader who takes the speed and volume of these favours as Rome's verdict is making the inference the acts were careful not to make.",
+        "sources": [
+          "ullathorne-1854"
         ]
       },
       {
@@ -293,6 +304,30 @@
       "sources": [
         "cathen-lasalette",
         "frwiki-ndls"
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852-08-24 – 1852-09-07",
+      "dateVerified": false,
+      "dateNote": "The dates are Ullathorne's, published in 1854 and itemised act by act. The acts themselves predate the Holy See's printed gazettes — Acta Sanctae Sedis begins in 1865 — so none of them could be checked against an official text from this session.",
+      "place": "Rome",
+      "title": "Pius IX grants the new sanctuary a series of spiritual favours",
+      "text": "In a fortnight, eleven months after the Bishop of Grenoble declared the apparition worthy of belief, Rome attaches a run of privileges to the site and to the works growing around it. Ullathorne, writing in 1854, lists them: a rescript of 24 August making the sanctuary's high altar a privileged altar in perpetuity; a rescript of 26 August allowing any priest who comes to La Salette to say a votive Mass of the Blessed Virgin on almost any day; a brief of the same day granting five indulgences to members of the Confraternity of La Salette; a brief of 3 September granting a plenary indulgence once a year to everyone who visits the church; a second brief of that date for those who follow the missioners' missions and retreats; and three briefs of 7 September — two giving the missioners the power to indulgence crosses, medals and beads and to give the Scapular, and one erecting the Confraternity into an Archconfraternity under the title of Our Lady of Reconciliation of La Salette. What these acts favour is the cult, the pilgrimage and the missioners. None of them pronounces on whether the apparition happened, and Ullathorne opens the chapter that lists them by saying so: \"The Holy See has not formally pronounced upon the fact of La Salette. Her word, that final and decisive word, has not been uttered.\"",
+      "sources": [
+        "ullathorne-1854"
+      ]
+    },
+    {
+      "year": 1852,
+      "date": "1852-12-02",
+      "dateVerified": false,
+      "dateNote": "Ullathorne's date, given as \"2nd December\" without the year restated; the year is his chapter's. The indult itself was not reached in its own text.",
+      "place": "Rome",
+      "title": "Indult: the anniversary of the apparition may be solemnized across the diocese",
+      "text": "At the Bishop of Grenoble's request, Pius IX permits the 19th of September — the anniversary of the apparition, \"vel ipso apparitionis die\" — to be solemnized each year in all the churches of the diocese, or kept on the following Sunday with a solemn Mass and sung Vespers of the Blessed Virgin; the clergy may instead take the whole office and the Mass of the Patronage of the Blessed Virgin under solemn rite, as a Double of the Second Class. Ullathorne draws the inference his readers would draw and marks its limit in the same breath: the clergy \"are not indeed enjoined, but they are permitted\" to keep the day. A liturgical permission for one diocese is not a doctrinal judgment, and no doctrinal judgment followed it.",
+      "sources": [
+        "ullathorne-1854"
       ]
     },
     {
@@ -704,6 +739,14 @@
       "publisher": "Villes Sanctuaires en France",
       "publisherNote": "Association of French shrine towns of which La Salette is a member — promotional by purpose, and cited only as one of the bodies that publishes an attendance figure, with the figure attributed to it.",
       "type": "official"
+    },
+    {
+      "id": "ullathorne-1854",
+      "title": "The Holy Mountain of La Salette: A Pilgrimage of the Year 1854 (London: Richardson and Son, 1854), ch. XI \"Rome and La Salette\", pp. 125–127",
+      "url": "https://archive.org/details/holymountainlas00ullagoog",
+      "publisher": "William Bernard Ullathorne, Bishop of Birmingham / Internet Archive scan",
+      "publisherNote": "Near-contemporary devotional account by an English bishop who visited La Salette in 1854 and interviewed both seers; sympathetic to the apparition and explicit about it. Cited here for its chapter XI, which enumerates nine Roman acts of 1852 by their kind and date, and which opens by stating that the Holy See had not pronounced on the fact of the apparition — a denial from a witness whose interest ran the other way. The individual rescripts, briefs and the indult have not been read here in their own text: they predate both Acta Sanctae Sedis (1865) and Acta Apostolicae Sedis (1909), so the Holy See's online act archives cannot contain them, and no other transcription was reached from this session. The full text was read from the Internet Archive scan (Google-digitized copy, holymountainlas00ullagoog).",
+      "type": "book"
     }
   ]
 }

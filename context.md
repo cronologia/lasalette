@@ -42,8 +42,8 @@ there is no recognition act to date:
   "declarations of miracles" to no scientific inquiry. The cures were part of
   the evidence the 1851 diocesan judgment weighed; they are not themselves
   approved miracles, and the 1851 judgment is about the apparition.
-- **Cures get no approval-ladder rungs.** The five rungs are judgments on the
-  apparition and on the secrets, and stay exactly as they are.
+- **Cures get no approval-ladder rungs.** The six rungs are judgments on the
+  apparition, on the cult and on the secrets, and stay exactly as they are.
 - Attendance figures are attributed to whoever publishes them, and where they
   disagree the gap stays: Villes Sanctuaires gives ~200,000 a year, the French
   Wikipedia ~300,000, neither states a method, and the dataset reconciles
@@ -86,6 +86,32 @@ his successor Ginoulhiac confirmed the judgment in 1855; the church became a
 minor basilica in 1879; in 2016 the Congregation for Divine Worship entered
 the celebration in France's proper calendar (19 September, optional memorial).
 This track has never been revoked.
+
+**Track 1b — the cult, which Rome DID act on, fast.** The most useful thing
+found on this subject since the bootstrap: within fifteen months of the 1851
+judgment, Pius IX issued at least nine acts touching La Salette — a privileged
+high altar in perpetuity (24 August 1852), a votive-Mass permission for visiting
+priests (26 August), five indulgences for the confraternity (26 August), plenary
+indulgences for visitors and for those attending the missioners' missions (3
+September), faculties for the missioners and the erection of the confraternity
+into the Archconfraternity of Our Lady of Reconciliation of La Salette (7
+September), and an indult letting the whole diocese solemnize 19 September (2
+December). They are catalogued, act by act, in chapter XI of Bishop
+Ullathorne's *The Holy Mountain of La Salette* (1854), read here from the
+Internet Archive scan.
+
+The reason this belongs on its own track, and on its own ladder rung marked as
+an act on a related matter, is the sentence that opens the same chapter:
+"The Holy See has not formally pronounced upon the fact of La Salette. Her
+word, that final and decisive word, has not been uttered." A sympathetic bishop
+writing to persuade, listing every favour Rome had granted, still says Rome did
+not rule. **Never let the volume or speed of the 1852 favours be rendered as
+Roman approval of the apparition** — that inference is exactly what the acts
+avoided, and stating it would be the mirror image of the Track 2 error below.
+The acts themselves have not been read in their own text and probably cannot be
+from a screen: they predate *Acta Sanctae Sedis* (1865), so vatican.va's act
+archives cannot contain them. Anyone with access to the *Bullarium* or the
+Grenoble diocesan archives should collate them.
 
 **Track 2 — the expanded "secrets".** In July 1851 the children wrote their
 secrets (Maximin's letter dated 3 July, Mélanie's 6 July) and the sealed texts
