@@ -1,0 +1,96 @@
+{
+  "generatedBy": "scripts/archive-refs.js",
+  "updatedAt": "2026-08-10",
+  "snapshots": {
+    "https://corjesusacratissimum.org/2012/07/melanie-calvat-and-our-lady-of-la-salette-part-iii-the-secrets-of-la-salette/": {
+      "refId": "cjs-secrets",
+      "archiveUrl": "https://web.archive.org/web/20260520194717/https://corjesusacratissimum.org/2012/07/melanie-calvat-and-our-lady-of-la-salette-part-iii-the-secrets-of-la-salette/",
+      "timestamp": "20260520194717",
+      "checkedAt": "2026-08-10"
+    },
+    "https://en.wikipedia.org/wiki/M%C3%A9lanie_Calvat": {
+      "refId": "wiki-melanie",
+      "archiveUrl": "https://web.archive.org/web/20260512213307/https://en.wikipedia.org/wiki/M%C3%A9lanie_Calvat",
+      "timestamp": "20260512213307",
+      "checkedAt": "2026-08-10"
+    },
+    "https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette": {
+      "refId": "wiki-ourlady",
+      "archiveUrl": "https://web.archive.org/web/20260630231614/https://en.wikipedia.org/wiki/Our_Lady_of_La_Salette",
+      "timestamp": "20260630231614",
+      "checkedAt": "2026-08-10"
+    },
+    "https://fr.wikipedia.org/wiki/Apparition_mariale_de_La_Salette": {
+      "refId": "frwiki-apparition",
+      "archiveUrl": "https://web.archive.org/web/20251210150135/https://fr.wikipedia.org/wiki/Apparition_mariale_de_La_Salette",
+      "timestamp": "20251210150135",
+      "checkedAt": "2026-08-10"
+    },
+    "https://fr.wikipedia.org/wiki/Notre-Dame_de_La_Salette": {
+      "refId": "frwiki-ndls",
+      "archiveUrl": "https://web.archive.org/web/20260807221430/https://fr.wikipedia.org/wiki/Notre-Dame_de_La_Salette",
+      "timestamp": "20260807221430",
+      "checkedAt": "2026-08-10"
+    },
+    "https://fr.wikipedia.org/wiki/Sanctuaire_de_Notre-Dame_de_La_Salette": {
+      "refId": "frwiki-sanctuaire",
+      "archiveUrl": "https://web.archive.org/web/20251114195155/https://fr.wikipedia.org/wiki/Sanctuaire_de_Notre-Dame_de_La_Salette",
+      "timestamp": "20251114195155",
+      "checkedAt": "2026-08-10"
+    },
+    "https://lasalette.cef.fr/en/history/": {
+      "refId": "sanctuary-history",
+      "archiveUrl": "https://web.archive.org/web/20260511142100/https://lasalette.cef.fr/en/history/",
+      "timestamp": "20260511142100",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.lasalette.info/mission/history-of-congregation": {
+      "refId": "msla-history",
+      "archiveUrl": "https://web.archive.org/web/20250824094712/https://www.lasalette.info/mission/history-of-congregation",
+      "timestamp": "20250824094712",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.newadvent.org/cathen/09008b.htm": {
+      "refId": "cathen-lasalette",
+      "archiveUrl": "https://web.archive.org/web/20260616154626/https://www.newadvent.org/cathen/09008b.htm",
+      "timestamp": "20260616154626",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.omiworld.org/lemma/bruillard-philibert-de-bishop-of-grenoble/": {
+      "refId": "omi-bruillard",
+      "archiveUrl": "https://web.archive.org/web/20260810080610/https://www.omiworld.org/lemma/bruillard-philibert-de-bishop-of-grenoble/",
+      "timestamp": "20260810080610",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.rte.ie/history/the-great-irish-famine/2022/0127/1276178-the-hungry-forties-in-europe/": {
+      "refId": "rte-hungry-forties",
+      "archiveUrl": "https://web.archive.org/web/20260121205746/https://www.rte.ie/history/the-great-irish-famine/2022/0127/1276178-the-hungry-forties-in-europe/",
+      "timestamp": "20260121205746",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf": {
+      "refId": "aas-7-1915",
+      "archiveUrl": "https://web.archive.org/web/20260726131910/https://www.vatican.va/archive/aas/documents/AAS-07-1915-ocr.pdf",
+      "timestamp": "20260726131910",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf": {
+      "refId": "aas-15-1923",
+      "archiveUrl": "https://web.archive.org/web/20260430055714/https://www.vatican.va/archive/aas/documents/AAS-15-1923-ocr.pdf",
+      "timestamp": "20260430055714",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html": {
+      "refId": "ddf-norms-2024",
+      "archiveUrl": "https://web.archive.org/web/20260724130748/https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20240517_norme-fenomeni-soprannaturali_en.html",
+      "timestamp": "20260724130748",
+      "checkedAt": "2026-08-10"
+    },
+    "https://www.villes-sanctuaires.com/villes-sanctuaires/salette/pelerinage": {
+      "refId": "villes-sanctuaires-salette",
+      "archiveUrl": "https://web.archive.org/web/20260511115729/https://www.villes-sanctuaires.com/villes-sanctuaires/salette/pelerinage",
+      "timestamp": "20260511115729",
+      "checkedAt": "2026-08-10"
+    }
+  }
+}
