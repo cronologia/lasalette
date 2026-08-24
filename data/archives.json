@@ -1,7 +1,13 @@
 {
   "generatedBy": "scripts/archive-refs.js",
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-24",
   "snapshots": {
+    "https://books.google.com/books/about/La_v%C3%A9rit%C3%A9_sur_l_%C3%A9v%C3%A8nement_de_La_Sale.html?id=utrDKCFLydgC": {
+      "refId": "rousselot-1848",
+      "archiveUrl": "https://web.archive.org/web/20260810080644/https://books.google.com/books/about/La_v%C3%A9rit%C3%A9_sur_l_%C3%A9v%C3%A8nement_de_La_Sale.html?id=utrDKCFLydgC",
+      "timestamp": "20260810080644",
+      "checkedAt": "2026-08-24"
+    },
     "https://corjesusacratissimum.org/2012/07/melanie-calvat-and-our-lady-of-la-salette-part-iii-the-secrets-of-la-salette/": {
       "refId": "cjs-secrets",
       "archiveUrl": "https://web.archive.org/web/20260520194717/https://corjesusacratissimum.org/2012/07/melanie-calvat-and-our-lady-of-la-salette-part-iii-the-secrets-of-la-salette/",
