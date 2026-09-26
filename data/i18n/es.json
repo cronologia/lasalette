@@ -1,12 +1,13 @@
 {
   "_meta": {
     "targetLang": "es",
-    "coverage": "169/169",
+    "coverage": "172/172",
     "generatedBy": "hand-authored by Claude (LLM) during project bootstrap, 2026-08-05 — NOT produced by scripts/translate.js",
     "note": "Exact-key dictionary over data/chronology.json. English is authoritative; keep this cache in step with English edits. Check coverage with `node --test` (test/i18n-completeness.test.js), which mirrors build.js's real walk INCLUDING the subtree allowlists; `scripts/translate.js --stats` cannot see subtree-allowlisted keys (publisherNote, the approvalLadder prose) and reports false coverage. Rekeyed el 2026-08-05 (core#74): la nota de Rousselot ahora dice «Documento primario» de forma explícita, porque el tipo «primary» pasó a ser «book».",
     "humanReviewed": false
   },
   "strings": {
+    "1852": "1852",
     "Our Lady of La Salette — Chronology": "Nuestra Señora de La Salette — Cronología",
     "Chronology of the reported apparition at La Salette in its setting — the famine year, the shrine, the congregation and the Church's judgments (1826–2016)": "Cronología de la aparición reportada en La Salette en su entorno: el año del hambre, el santuario, la congregación y los juicios de la Iglesia (1826–2016)",
     "An open, source-referenced chronology of the Marian apparition reported at La Salette-Fallavaux in 1846: the famine year and the diocese it happened in, the cures reported afterwards, the diocesan approval of 1851, the basilica and the Missionaries of La Salette, and the later controversy over the \"Secrets of La Salette\".": "Una cronología abierta y documentada de la aparición mariana reportada en La Salette-Fallavaux en 1846: el año del hambre y la diócesis en que ocurrió, las curaciones reportadas después, la aprobación diocesana de 1851, la basílica y los Misioneros de La Salette, y la controversia posterior sobre los «Secretos de La Salette».",
